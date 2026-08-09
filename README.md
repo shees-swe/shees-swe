@@ -1,16 +1,32 @@
-## Hi there 👋
+# Muhammad Shees / README.md
 
-<!--
-**shees-swe/shees-swe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+           .----====-:-==-:-::::::::-::   .     shees-swe@github
+           .:-===+***++++-:.  .:::::-:::        ------------------
+            -+=+=++====---:    .::::-::.        OS: Windows 11 / Linux
+           :=-----------::.      .....          Education: BS Computer Science
+          -=-..:::::::::::..                    Certification: ADSE (Aptech)
+         :: .-=+++++=--::....                    Shell: PowerShell / Bash
+        ..:=*##%%%%%##*+-....                   
+       :++*##%%%%%%####+=-...                   Languages.Programming: Java, Python, C, C++
+      .=#*##%#%%%####**++=-..                   Languages.Web: HTML, CSS, JavaScript, PHP
+      =####%########***+++--:..                 Frameworks: .NET, ASP.NET
+     .+#%%#%#####%%#***+++=-:..                 Databases: MySQL, MS SQL Server, Oracle PL/SQL
+     .+#%#########+***+*++*=:....               Concepts: OOP, DSA, Software Engineering
+      =****###**##+=+*=---*=:....               Topics: Cloud Computing, Networking, IoT, AI & ML
+      :*-+******#+=-===-:-=::...                Tools: Git, GitHub, VS Code
+   ..-=*-+*******+-----::::.::...               
+:---+**+-+*******+=-:-::.....:.......::::---    Hobbies.Gaming: Playing games
+-==-+*+=-+*******+=--=::.:-=======++++++++++    
+-------==+******++=-:=-:-+********++++++++++    Contact.GitHub: github.com/shees-swe
+--=+**++=++*****+=-::---=**********+++++++++    
+**+++****+++*####**====-:+**********++++++++    GitHub Stats
+###**+++******###*++===-:=+**#*+**++*++++++*    Repos: 1
+######*####%#*###*+=====+*****%**#****+++++*    Joined: 2026
+**###%%%%#%%%***++++++*########%######*##**+    
+%%%%%%%%%%%%%#**++*#####%%#%%%%@@%%%%%%####*    
+%%%%%%%%%%%%%@@%%%%%%%%%%#%%%%%%%%%%%%%%%###    
+%%%%%%%%%%%%%%%%%%%%%%%%##%#%%%%%@%%%%%%%###    
+%%%%%%%%%%%%%%%%%%%%%%%%#%%#%%%%%@%%@%%%%%%#    
+%%%%%%%%%%%%#%%%%%%%%%%%#%%##%%%%%%@@%%%%%%%    
+```
