@@ -148,6 +148,62 @@
 
 ---
 
+<!-- CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shees-swe/shees-swe/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shees-swe/shees-swe/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shees-swe/shees-swe/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+<!-- FUN FACTS & CURRENTLY -->
+<h2>⚡ Fun Facts & Currently</h2>
+
+<table width="100%" border="0">
+<tr>
+<td width="50%" valign="top" style="border: none; background: none;">
+
+### 🎯 Currently
+- 🔭 Building full-stack apps with the **MERN stack**
+- 🌱 Learning **advanced Three.js** & **system design**
+- 🎨 Obsessed with **smooth scroll physics** and cinematic UI motion
+- 📚 Studying **BS Software Engineering** at Virtual University
+
+</td>
+<td width="50%" valign="top" style="border: none; background: none;">
+
+### ✨ Fun Facts
+- 🌌 My portfolio has a **real-time 3D universe** as its background
+- 💛 I brand everything in **yellow, black & white**
+- 🌙 Most productive coding hours: **after midnight**
+- 🎮 Built an **NFT marketplace** from scratch with MERN
+- 💬 Ask me about **React, Node.js, MongoDB, Three.js**
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- LET'S CONNECT -->
+<div align="center">
+
+### 🤝 Let's Build Something Great Together
+
+*Open for freelance projects, collaborations, and interesting conversations about web development.*
+
+<a href="mailto:shees.swe@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-shees.swe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+<a href="https://shees-swe.github.io/"><img src="https://img.shields.io/badge/See_My_Work-Portfolio-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
+
+</div>
+
+---
+
 <!-- QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
