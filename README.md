@@ -100,10 +100,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shees-swe&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shees-swe&theme=dracula&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
 ---
 
 <!-- PROJECTS -->
