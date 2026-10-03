@@ -6,10 +6,10 @@
 <div align="center">
 
   <a href="https://github.com/shees-swe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Building+Interactive+Web+Experiences;Based+in+Karachi,+Pakistan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Tech+Explorer;Building+Interactive+Web+Experiences;Based+in+Karachi,+Pakistan" alt="Typing SVG" />
   </a>
 
-  <h3><strong>Full-Stack Developer | MERN Stack</strong></h3>
+  <h3><strong>Full-Stack Developer</strong></h3>
   <p><i>Building scalable web applications, interactive 3D experiences, and modern full-stack solutions.</i></p>
 
   <p>
@@ -35,7 +35,7 @@
 ### 👨‍💻 Who am I?
 
 * 🎓 **BS Software Engineering** (in progress) • Virtual University of Pakistan
-* 💻 **Full-Stack Developer** passionate about the MERN stack and interactive web experiences.
+* 💻 **Full-Stack Developer** passionate about building modern web applications and interactive experiences.
 * 🚀 Currently building production-ready applications with React, Node.js, and MongoDB.
 * 🌱 Currently learning **advanced Three.js, system design, and cloud deployment.**
 * 🎨 I craft portfolios with real-time 3D, smooth scroll physics, and cinematic motion.
@@ -165,7 +165,7 @@
 <td width="50%" valign="top" style="border: none; background: none;">
 
 ### 🎯 Currently
-- 🔭 Building full-stack apps with the **MERN stack**
+- 🔭 Building **full-stack web applications** end to end
 - 🌱 Learning **advanced Three.js** & **system design**
 - 🎨 Obsessed with **smooth scroll physics** and cinematic UI motion
 - 📚 Studying **BS Software Engineering** at Virtual University
