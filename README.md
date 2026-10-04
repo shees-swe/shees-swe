@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Muhammad%20Shees&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%"/>
+   <img src="header.svg" width="100%"/>
 </div>
 
 <!-- HERO SECTION -->
