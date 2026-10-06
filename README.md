@@ -17,7 +17,7 @@
     <a href="https://shees-swe.github.io/"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
     <a href="https://github.com/shees-swe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://instagram.com/shees.swe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.facebook.com/shees.swe"><img src="https://img.shields.io/badge/Facebook-1877xF2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a
+    <a href="https://www.facebook.com/shees.swe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   </p>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shees-swe.shees-swe" alt="Visitor Counter" />
@@ -65,21 +65,30 @@
   <tr>
     <td width="50%" valign="top">
       <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,py,php,dart" />
       <br/><br/>
       <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs" />
+      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,bootstrap,mui,flutter" />
       <br/><br/>
       <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet" />
     </td>
     <td width="50%" valign="top">
       <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb" />
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
       <br/><br/>
       <h3>🛠️ Tools & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,azure" />
       <br/><br/>
+      <h3>🎓 ADSE & More</h3>
+      <p>
+        <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+        <img src="https://img.shields.io/badge/SEO-00FFCC?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square" />
+      </p>
       <h3>🎯 Currently Exploring</h3>
       <p>System Design • Docker • AWS • Advanced Three.js • GSAP</p>
     </td>
@@ -138,7 +147,7 @@
 <h2>🎓 Education</h2>
 
 * 🎓 **BS Software Engineering** — Virtual University of Pakistan *(in progress)*
-* 💻 **ADSE (Advanced Diploma in Software Engineering)** — Aptech North Karachi Center
+* 💻 **ADSE (Advanced Diploma in Software Engineering)** — Aptech North Karachi Center ✅
 * 📜 **Intermediate** — Government Degree Boys College 5-L, New Karachi
 * 📚 **Matriculation** — SHS Schooling System
 
