@@ -17,7 +17,7 @@
     <a href="https://shees-swe.github.io/"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
     <a href="https://github.com/shees-swe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://instagram.com/shees.swe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.facebook.com/shees.swe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+    <a href="https://www.facebook.com/shees.swe"><img src="https://img.shields.io/badge/Facebook-1877xF2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a
   </p>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=shees-swe.shees-swe" alt="Visitor Counter" />
