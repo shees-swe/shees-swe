@@ -122,26 +122,16 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h3>🌌 <a href="https://shees-swe.github.io/">Interactive 3D Portfolio</a></h3>
-      <p>A cinematic portfolio with a real-time 3D universe, scroll-driven camera flights, and buttery-smooth motion.</p>
+    <td width="100%" valign="top">
+      <h3>🎓 <a href="https://github.com/shees-swe/edupredict">EduPredict — Student Dropout Risk & Academic Analytics Platform</a></h3>
+      <p>A role-based academic analytics platform that predicts student dropout risk, recommends academic pathways, and visualizes cohort data — with separate dashboards for admins, teachers, analysts and students.</p>
       <p>
-        <code>React 19</code> <code>Three.js</code> <code>TypeScript</code> <code>GSAP</code> <code>Lenis</code>
+        <code>React</code> <code>Flask</code> <code>MongoDB</code> <code>Python</code> <code>Machine Learning</code>
       </p>
       <ul>
-        <li>✔ Real-time 3D tech-stack orbit scene</li>
-        <li>✔ Scroll-driven camera & section transitions</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/shees-swe">PLAY NFT Marketplace</a></h3>
-      <p>A full-stack NFT marketplace with listings, auctions, and wallet-style interactions.</p>
-      <p>
-        <code>MongoDB</code> <code>Express</code> <code>React</code> <code>Node.js</code>
-      </p>
-      <ul>
-        <li>✔ Full MERN architecture</li>
-        <li>✔ Marketplace listings & bidding flow</li>
+        <li>✔ ML dropout-risk predictions with real-time alerts — running live on a 5,000-student cohort</li>
+        <li>✔ Batch CSV ingest, in-app record management, staff access scoping & TOTP 2FA</li>
+        <li>✔ 🔗 <a href="https://edupredict-blue.vercel.app">Live demo</a></li>
       </ul>
     </td>
   </tr>
