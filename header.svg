@@ -1,26 +1,126 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Shees — Full-Stack Developer</title>
+  <desc id="desc">A dark burgundy and orange GitHub profile header with a code mark, fine grid, flowing energy lines, and a subtle code terminal illustration.</desc>
   <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#B537F2"/>
-      <stop offset="50%" stop-color="#6A5CFF"/>
-      <stop offset="100%" stop-color="#00D4C8"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100C08"/>
+      <stop offset="0.52" stop-color="#1B090D"/>
+      <stop offset="1" stop-color="#100C08"/>
     </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#95122C"/>
+      <stop offset="0.52" stop-color="#CA3F16"/>
+      <stop offset="1" stop-color="#FF9408"/>
+    </linearGradient>
+    <linearGradient id="textAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF9408"/>
+      <stop offset="1" stop-color="#CA3F16"/>
+    </linearGradient>
+    <linearGradient id="cream" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DBE0E1"/>
+    </linearGradient>
+    <radialGradient id="leftGlow" cx="0.22" cy="0.48" r="0.65">
+      <stop offset="0" stop-color="#95122C" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#95122C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rightGlow" cx="0.82" cy="0.15" r="0.7">
+      <stop offset="0" stop-color="#CA3F16" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#CA3F16" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#DBE0E1" stroke-opacity="0.065" stroke-width="0.7"/>
+    </pattern>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.05" fill="#FF9408" fill-opacity="0.6"/>
+    </pattern>
+    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+    <clipPath id="canvas"><rect width="1200" height="200" rx="0"/></clipPath>
   </defs>
-  <rect width="1200" height="200" fill="#0d1117"/>
-  <path d="M0,0 L1200,0 L1200,150 C1000,190 800,110 600,150 C400,190 200,110 0,150 Z" fill="url(#bg)"/>
-  <g transform="translate(314.2,118)" fill="#ffffff">
-    <path d="M75 690 388 373 701 690V16H546V330L388 151L230 330V16H75Z" transform="translate(0.0,0) scale(0.0720,-0.0720)"/>
-    <path d="M57 476H200V224Q200 191 216.0 166.0Q232 141 268 141Q285 141 300.0 147.5Q315 154 326.5 165.5Q338 177 345.0 192.0Q352 207 352 225V476H494V15H358V72Q332 43 296.0 26.0Q260 9 216 9Q144 9 100.5 60.5Q57 112 57 202Z" transform="translate(55.9,0) scale(0.0720,-0.0720)"/>
-    <path d="M494 9H351V261Q351 294 335.0 319.0Q319 344 283 344Q266 344 251.0 337.5Q236 331 224.5 319.5Q213 308 206.0 293.0Q199 278 199 260V9H57V677H193V413Q219 442 255.0 459.0Q291 476 335 476Q407 476 450.5 424.5Q494 373 494 283Z" transform="translate(94.8,0) scale(0.0720,-0.0720)"/>
-    <path d="M243 10Q198 10 161.5 28.5Q125 47 99.0 78.5Q73 110 59.0 152.5Q45 195 45 242Q45 289 59.5 332.0Q74 375 100.0 407.5Q126 440 162.5 459.5Q199 479 243 479Q285 479 318.0 462.0Q351 445 376 416V469H512V18H376V64Q350 38 317.0 24.0Q284 10 243 10ZM284 347Q263 347 245.0 338.5Q227 330 214.5 315.5Q202 301 195.0 282.0Q188 263 188 243Q188 201 215.0 172.0Q242 143 284 143Q307 143 325.0 152.0Q343 161 355.0 175.5Q367 190 373.5 207.5Q380 225 380 243Q380 287 353.5 317.0Q327 347 284 347Z" transform="translate(134.5,0) scale(0.0720,-0.0720)"/>
-    <path d="M749 9H606V261Q606 294 592.0 319.0Q578 344 546 344Q532 344 519.0 337.5Q506 331 496.0 319.5Q486 308 480.0 293.0Q474 278 474 260V9H331V261Q331 294 317.0 319.0Q303 344 271 344Q257 344 244.0 337.5Q231 331 221.0 319.5Q211 308 205.0 293.0Q199 278 199 260V9H57V470H193V413Q218 442 251.5 459.0Q285 476 326 476Q400 476 440 414Q465 442 502.0 459.0Q539 476 584 476Q659 476 704.0 424.5Q749 373 749 283Z" transform="translate(175.1,0) scale(0.0720,-0.0720)"/>
-    <path d="M749 9H606V261Q606 294 592.0 319.0Q578 344 546 344Q532 344 519.0 337.5Q506 331 496.0 319.5Q486 308 480.0 293.0Q474 278 474 260V9H331V261Q331 294 317.0 319.0Q303 344 271 344Q257 344 244.0 337.5Q231 331 221.0 319.5Q211 308 205.0 293.0Q199 278 199 260V9H57V470H193V413Q218 442 251.5 459.0Q285 476 326 476Q400 476 440 414Q465 442 502.0 459.0Q539 476 584 476Q659 476 704.0 424.5Q749 373 749 283Z" transform="translate(232.3,0) scale(0.0720,-0.0720)"/>
-    <path d="M243 10Q198 10 161.5 28.5Q125 47 99.0 78.5Q73 110 59.0 152.5Q45 195 45 242Q45 289 59.5 332.0Q74 375 100.0 407.5Q126 440 162.5 459.5Q199 479 243 479Q285 479 318.0 462.0Q351 445 376 416V469H512V18H376V64Q350 38 317.0 24.0Q284 10 243 10ZM284 347Q263 347 245.0 338.5Q227 330 214.5 315.5Q202 301 195.0 282.0Q188 263 188 243Q188 201 215.0 172.0Q242 143 284 143Q307 143 325.0 152.0Q343 161 355.0 175.5Q367 190 373.5 207.5Q380 225 380 243Q380 287 353.5 317.0Q327 347 284 347Z" transform="translate(289.6,0) scale(0.0720,-0.0720)"/>
-    <path d="M243 10Q198 10 161.5 28.5Q125 47 99.0 78.5Q73 110 59.0 152.5Q45 195 45 242Q45 289 59.5 332.0Q74 375 100.0 407.5Q126 440 162.5 459.5Q199 479 243 479Q285 479 318.0 462.0Q351 445 376 416V669H512V18H376V64Q350 38 317.0 24.0Q284 10 243 10ZM284 347Q263 347 245.0 338.5Q227 330 214.5 315.5Q202 301 195.0 282.0Q188 263 188 243Q188 201 215.0 172.0Q242 143 284 143Q307 143 325.0 152.0Q343 161 355.0 175.5Q367 190 373.5 207.5Q380 225 380 243Q380 287 353.5 317.0Q327 347 284 347Z" transform="translate(330.2,0) scale(0.0720,-0.0720)"/>
-    <path d="M454 506Q417 538 389.0 546.5Q361 555 335 555Q291 555 270.0 541.0Q249 527 249 504Q249 482 267.5 467.0Q286 452 313.0 438.0Q340 424 372.5 407.5Q405 391 432.0 366.0Q459 341 477.5 303.5Q496 266 496 210Q496 156 478.5 117.0Q461 78 430.5 52.5Q400 27 358.5 15.0Q317 3 269 3Q238 3 205.5 8.5Q173 14 144.0 25.0Q115 36 91.0 53.5Q67 71 51 95L135 201Q167 169 198.0 157.0Q229 145 255 145Q287 145 303.5 159.5Q320 174 320 197Q320 223 302.0 239.5Q284 256 257.5 270.0Q231 284 199.5 299.0Q168 314 141.5 337.0Q115 360 97.0 393.5Q79 427 79 479Q79 537 101.5 578.0Q124 619 159.5 645.5Q195 672 238.0 684.5Q281 697 321 697Q368 697 417.0 680.5Q466 664 504 626Z" transform="translate(389.5,0) scale(0.0720,-0.0720)"/>
-    <path d="M494 9H351V261Q351 294 335.0 319.0Q319 344 283 344Q266 344 251.0 337.5Q236 331 224.5 319.5Q213 308 206.0 293.0Q199 278 199 260V9H57V677H193V413Q219 442 255.0 459.0Q291 476 335 476Q407 476 450.5 424.5Q494 373 494 283Z" transform="translate(429.5,0) scale(0.0720,-0.0720)"/>
-    <path d="M179 211Q185 176 212.0 153.0Q239 130 281 130Q313 130 335.5 142.0Q358 154 371 174L474 109Q446 63 396.5 36.5Q347 10 281 10Q228 10 184.5 28.5Q141 47 110.0 78.5Q79 110 62.0 152.5Q45 195 45 242Q45 289 61.0 332.0Q77 375 106.0 407.5Q135 440 176.0 459.5Q217 479 266 479Q317 479 358.0 459.5Q399 440 427.5 406.0Q456 372 471.0 325.5Q486 279 486 226V211ZM346 295Q341 326 320.5 345.0Q300 364 265 364Q235 364 215.0 344.5Q195 325 187 295Z" transform="translate(469.2,0) scale(0.0720,-0.0720)"/>
-    <path d="M179 211Q185 176 212.0 153.0Q239 130 281 130Q313 130 335.5 142.0Q358 154 371 174L474 109Q446 63 396.5 36.5Q347 10 281 10Q228 10 184.5 28.5Q141 47 110.0 78.5Q79 110 62.0 152.5Q45 195 45 242Q45 289 61.0 332.0Q77 375 106.0 407.5Q135 440 176.0 459.5Q217 479 266 479Q317 479 358.0 459.5Q399 440 427.5 406.0Q456 372 471.0 325.5Q486 279 486 226V211ZM346 295Q341 326 320.5 345.0Q300 364 265 364Q235 364 215.0 344.5Q195 325 187 295Z" transform="translate(506.1,0) scale(0.0720,-0.0720)"/>
-    <path d="M310 328Q283 348 262.5 354.0Q242 360 223 360Q201 360 190.5 353.0Q180 346 180 335Q180 323 193.5 315.0Q207 307 227.0 298.5Q247 290 270.5 280.0Q294 270 314.0 253.5Q334 237 347.5 212.0Q361 187 361 150Q361 114 348.0 88.5Q335 63 313.5 46.0Q292 29 263.0 21.0Q234 13 201 13Q157 13 111.5 27.5Q66 42 35 74L96 165Q120 143 143.0 135.0Q166 127 186 127Q232 127 232 155Q232 169 219.0 178.0Q206 187 186.0 195.0Q166 203 143.5 212.0Q121 221 101.0 236.0Q81 251 68.0 274.0Q55 297 55 332Q55 370 70.0 397.0Q85 424 108.5 441.0Q132 458 161.0 466.5Q190 475 217 475Q248 475 283.5 464.0Q319 453 347 427Z" transform="translate(543.0,0) scale(0.0720,-0.0720)"/>
+
+  <g clip-path="url(#canvas)">
+    <rect width="1200" height="200" fill="url(#bg)"/>
+    <rect width="1200" height="200" fill="url(#leftGlow)"/>
+    <rect width="1200" height="200" fill="url(#rightGlow)"/>
+    <rect width="1200" height="200" fill="url(#grid)"/>
+
+    <!-- Ambient geometry -->
+    <circle cx="98" cy="99" r="82" fill="none" stroke="#95122C" stroke-width="1.1" stroke-opacity="0.6"/>
+    <circle cx="98" cy="99" r="68" fill="none" stroke="#CA3F16" stroke-width="0.8" stroke-dasharray="2 7" stroke-opacity="0.55"/>
+    <path d="M0 48H45L65 28H113M0 161H40L58 179H117" fill="none" stroke="#FF9408" stroke-opacity="0.25" stroke-width="1"/>
+    <path d="M158 36H186L202 52V78" fill="none" stroke="#CA3F16" stroke-opacity="0.38" stroke-width="1"/>
+    <circle cx="45" cy="48" r="2.2" fill="#FF9408" filter="url(#softGlow)"/>
+    <circle cx="113" cy="28" r="2" fill="#CA3F16"/>
+    <circle cx="117" cy="179" r="2" fill="#FF9408"/>
+
+    <!-- Code mark -->
+    <g transform="translate(98 100)" filter="url(#shadow)">
+      <path d="M-18 -25L-44 0L-18 25M18 -25L44 0L18 25M7 -37L-7 37" fill="none" stroke="url(#hot)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="0" cy="0" r="52" fill="none" stroke="#DBE0E1" stroke-opacity="0.08" stroke-width="1"/>
+    </g>
+
+    <!-- Name and role -->
+    <g>
+      <text x="225" y="74" fill="url(#cream)" font-family="Poppins, Inter, 'Segoe UI', sans-serif" font-size="37" font-weight="700" letter-spacing="-0.8">Muhammad Shees</text>
+      <rect x="227" y="91" width="42" height="3" rx="1.5" fill="url(#hot)"/>
+      <text x="281" y="103" fill="url(#textAccent)" font-family="Poppins, Inter, 'Segoe UI', sans-serif" font-size="15" font-weight="600" letter-spacing="3.1">FULL-STACK DEVELOPER</text>
+      <text x="227" y="128" fill="#DBE0E1" fill-opacity="0.88" font-family="Poppins, Inter, 'Segoe UI', sans-serif" font-size="10.6" font-weight="500" letter-spacing="1.35">WEB APPLICATIONS  ·  SOFTWARE ENGINEERING</text>
+      <path d="M227 145H685" stroke="#DBE0E1" stroke-opacity="0.11" stroke-width="1"/>
+      <text x="227" y="163" fill="#DBE0E1" fill-opacity="0.55" font-family="Poppins, Inter, 'Segoe UI', sans-serif" font-size="9.5" font-weight="400" letter-spacing="1.7">DESIGNING • BUILDING • SHIPPING</text>
+    </g>
+
+    <!-- Stylized terminal card -->
+    <g transform="translate(846 32)" filter="url(#shadow)">
+      <rect x="0" y="0" width="222" height="116" rx="10" fill="#160D11" fill-opacity="0.88" stroke="#95122C" stroke-opacity="0.7" stroke-width="1.1"/>
+      <path d="M1 32H221" stroke="#95122C" stroke-opacity="0.55" stroke-width="1"/>
+      <circle cx="16" cy="16" r="3" fill="#95122C"/>
+      <circle cx="27" cy="16" r="3" fill="#CA3F16"/>
+      <circle cx="38" cy="16" r="3" fill="#FF9408"/>
+      <text x="55" y="20" fill="#DBE0E1" fill-opacity="0.65" font-family="Poppins, Inter, sans-serif" font-size="8" letter-spacing="1.1">SHEES.DEV / TERMINAL</text>
+      <text x="16" y="54" fill="#FF9408" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="9">&gt;</text>
+      <rect x="29" y="47" width="88" height="4" rx="2" fill="#F3F4F5" fill-opacity="0.82"/>
+      <rect x="124" y="47" width="37" height="4" rx="2" fill="#CA3F16" fill-opacity="0.95"/>
+      <text x="16" y="72" fill="#CA3F16" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="9">&gt;</text>
+      <rect x="29" y="65" width="51" height="4" rx="2" fill="#FF9408" fill-opacity="0.9"/>
+      <rect x="87" y="65" width="77" height="4" rx="2" fill="#DBE0E1" fill-opacity="0.36"/>
+      <text x="16" y="90" fill="#FF9408" font-family="ui-monospace, 'Cascadia Code', monospace" font-size="9">&gt;</text>
+      <rect x="29" y="83" width="65" height="4" rx="2" fill="#CA3F16" fill-opacity="0.8"/>
+      <rect x="101" y="83" width="36" height="4" rx="2" fill="#F3F4F5" fill-opacity="0.6"/>
+      <rect x="16" y="99" width="190" height="1" fill="#DBE0E1" fill-opacity="0.12"/>
+      <circle cx="193" cy="16" r="2" fill="#FF9408" filter="url(#softGlow)"/>
+    </g>
+
+    <!-- Stack labels and connecting paths -->
+    <g font-family="Poppins, Inter, 'Segoe UI', sans-serif" font-size="7.5" font-weight="600" letter-spacing="0.7">
+      <path d="M1068 60H1091V43H1110M1068 91H1095V112H1110M1091 43H1142M1095 112H1142" fill="none" stroke="url(#hot)" stroke-opacity="0.75" stroke-width="1.1"/>
+      <circle cx="1091" cy="60" r="2.2" fill="#FF9408"/>
+      <circle cx="1095" cy="91" r="2.2" fill="#CA3F16"/>
+      <rect x="1110" y="31" width="70" height="24" rx="6" fill="#1B0D11" stroke="#CA3F16" stroke-opacity="0.65"/>
+      <text x="1145" y="46" fill="#F3F4F5" text-anchor="middle">REACT</text>
+      <rect x="1110" y="100" width="70" height="24" rx="6" fill="#1B0D11" stroke="#95122C" stroke-opacity="0.8"/>
+      <text x="1145" y="115" fill="#FF9408" text-anchor="middle">NODE.JS</text>
+      <circle cx="1142" cy="43" r="2" fill="#FF9408" filter="url(#softGlow)"/>
+      <circle cx="1142" cy="112" r="2" fill="#CA3F16" filter="url(#softGlow)"/>
+    </g>
+
+    <!-- Flowing warm light waves across lower edge -->
+    <path d="M0 161C119 125 174 194 298 162S485 135 614 164 842 190 977 159 1090 146 1200 164" fill="none" stroke="#95122C" stroke-width="7" stroke-opacity="0.19"/>
+    <path d="M0 161C119 125 174 194 298 162S485 135 614 164 842 190 977 159 1090 146 1200 164" fill="none" stroke="url(#hot)" stroke-width="1.4" stroke-opacity="0.82"/>
+    <path d="M0 175C142 144 218 198 340 175S539 159 680 179 887 196 1025 177 1139 163 1200 174" fill="none" stroke="#CA3F16" stroke-width="1" stroke-opacity="0.55"/>
+    <path d="M0 188C145 164 241 202 370 187S585 173 727 189 930 202 1068 189 1150 182 1200 187" fill="none" stroke="#FF9408" stroke-width="0.7" stroke-opacity="0.28"/>
+    <g fill="#FF9408" filter="url(#softGlow)">
+      <circle cx="175" cy="181" r="2.4"/><circle cx="485" cy="157" r="2.1"/><circle cx="741" cy="186" r="2.2"/><circle cx="1012" cy="168" r="2.2"/>
+    </g>
+
+    <!-- Tiny pixel fields add texture without clutter -->
+    <rect x="742" y="17" width="54" height="31" fill="url(#dots)" opacity="0.55"/>
+    <rect x="1105" y="147" width="70" height="22" fill="url(#dots)" opacity="0.48"/>
+    <path d="M0 1H1200" stroke="#FF9408" stroke-opacity="0.45" stroke-width="1"/>
   </g>
 </svg>
