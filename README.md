@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://raw.githubusercontent.com/shees-swe/shees-swe/main/header.svg?v=9098ea7" width="100%"/>
+   <img src="https://raw.githubusercontent.com/shees-swe/shees-swe/main/header.svg?v=20261022b" width="100%"/>
 </div>
 
 <!-- HERO SECTION -->
@@ -213,5 +213,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="footer.svg" width="100%"/>
 </div>

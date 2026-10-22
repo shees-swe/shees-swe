@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-labelledby="title desc">
+  <title id="title">Muhammad Shees — GitHub profile footer</title>
+  <desc id="desc">A matching dark burgundy and orange footer with a code icon, flowing waveform lines, and a thank-you message.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#100C08"/>
+      <stop offset="0.52" stop-color="#1B090D"/>
+      <stop offset="1" stop-color="#100C08"/>
+    </linearGradient>
+    <linearGradient id="hot" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#95122C"/>
+      <stop offset="0.52" stop-color="#CA3F16"/>
+      <stop offset="1" stop-color="#FF9408"/>
+    </linearGradient>
+    <radialGradient id="glowLeft" cx="0.1" cy="0.6" r="0.8">
+      <stop offset="0" stop-color="#95122C" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#95122C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowRight" cx="0.95" cy="0.25" r="0.7">
+      <stop offset="0" stop-color="#FF9408" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#FF9408" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M30 0H0V30" fill="none" stroke="#DBE0E1" stroke-opacity="0.055" stroke-width="0.7"/>
+    </pattern>
+    <pattern id="dots" width="13" height="13" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#FF9408" fill-opacity="0.7"/>
+    </pattern>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="120" fill="url(#bg)"/>
+  <rect width="1200" height="120" fill="url(#glowLeft)"/>
+  <rect width="1200" height="120" fill="url(#glowRight)"/>
+  <rect width="1200" height="120" fill="url(#grid)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#hot)"/>
+  <rect x="22" y="18" width="104" height="55" fill="url(#dots)" opacity="0.65"/>
+  <rect x="1074" y="56" width="104" height="47" fill="url(#dots)" opacity="0.5"/>
+
+  <!-- low-profile flowing energy lines -->
+  <path d="M0 89 C130 54 180 112 307 84 S496 63 608 88 S815 112 932 77 S1080 62 1200 83" fill="none" stroke="#95122C" stroke-opacity="0.75" stroke-width="1.4"/>
+  <path d="M0 98 C125 68 185 119 320 96 S505 72 628 96 S824 115 946 89 S1093 73 1200 94" fill="none" stroke="#CA3F16" stroke-opacity="0.85" stroke-width="1.6"/>
+  <path d="M0 104 C118 82 208 118 330 103 S525 84 646 103 S836 116 961 99 S1090 87 1200 104" fill="none" stroke="#FF9408" stroke-opacity="0.45" stroke-width="0.9"/>
+  <path d="M0 88 C130 54 180 112 307 84 S496 63 608 88 S815 112 932 77 S1080 62 1200 83" fill="none" stroke="url(#hot)" stroke-opacity="0.3" stroke-width="5" filter="url(#glow)"/>
+
+  <!-- matching coding mark -->
+  <g transform="translate(44 28)">
+    <rect x="0" y="0" width="64" height="50" rx="11" fill="#100C08" fill-opacity="0.65" stroke="#95122C" stroke-opacity="0.9"/>
+    <path d="M22 16 L12 25 L22 34 M42 16 L52 25 L42 34 M36 11 L28 39" fill="none" stroke="url(#hot)" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <circle cx="122" cy="38" r="2.6" fill="#FF9408" filter="url(#glow)"/>
+  <circle cx="1090" cy="24" r="2.3" fill="#FF9408" filter="url(#glow)"/>
+  <circle cx="1124" cy="42" r="1.9" fill="#CA3F16"/>
+
+  <text x="148" y="48" fill="#F3F4F5" font-family="Poppins, Inter, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="0.1">Thanks for visiting my GitHub</text>
+  <text x="151" y="73" fill="#FF9408" font-family="Poppins, Inter, Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="3.2">BUILD  ·  LEARN  ·  SHIP</text>
+  <path d="M148 83 H476" stroke="#DBE0E1" stroke-opacity="0.18" stroke-width="1"/>
+
+  <!-- compact closing tag -->
+  <g transform="translate(902 28)">
+    <rect width="250" height="50" rx="13" fill="#100C08" fill-opacity="0.72" stroke="#95122C" stroke-width="1.1"/>
+    <circle cx="18" cy="18" r="3.4" fill="#95122C"/>
+    <circle cx="30" cy="18" r="3.4" fill="#CA3F16"/>
+    <circle cx="42" cy="18" r="3.4" fill="#FF9408"/>
+    <text x="62" y="21" fill="#DBE0E1" font-family="Poppins, Inter, Arial, sans-serif" font-size="8.5" letter-spacing="1.35">MUHAMMAD SHEES</text>
+    <path d="M17 32 H230" stroke="#DBE0E1" stroke-opacity="0.15"/>
+    <text x="18" y="43" fill="#FF9408" font-family="Poppins, Inter, Arial, sans-serif" font-size="8.3" font-weight="600" letter-spacing="1.6">FULL-STACK</text>
+  </g>
+</svg>

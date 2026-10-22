@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
   <title id="title">Muhammad Shees — Full-Stack Developer</title>
   <desc id="desc">A dark burgundy and orange GitHub profile header with a code mark, fine grid, flowing energy lines, and a subtle code terminal illustration.</desc>
   <defs>
@@ -41,14 +41,15 @@
     <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
       <feDropShadow dx="0" dy="4" stdDeviation="5" flood-color="#000000" flood-opacity="0.35"/>
     </filter>
-    <clipPath id="canvas"><rect width="1200" height="200" rx="0"/></clipPath>
+    <clipPath id="canvas"><rect width="1200" height="280" rx="0"/></clipPath>
   </defs>
 
   <g clip-path="url(#canvas)">
-    <rect width="1200" height="200" fill="url(#bg)"/>
-    <rect width="1200" height="200" fill="url(#leftGlow)"/>
-    <rect width="1200" height="200" fill="url(#rightGlow)"/>
-    <rect width="1200" height="200" fill="url(#grid)"/>
+    <rect width="1200" height="280" fill="url(#bg)"/>
+    <rect width="1200" height="280" fill="url(#leftGlow)"/>
+    <rect width="1200" height="280" fill="url(#rightGlow)"/>
+    <g transform="translate(0,40)">
+    <rect width="1200" height="280" fill="url(#grid)"/>
 
     <!-- Ambient geometry -->
     <circle cx="98" cy="99" r="82" fill="none" stroke="#95122C" stroke-width="1.1" stroke-opacity="0.6"/>
@@ -123,4 +124,5 @@
     <rect x="1105" y="147" width="70" height="22" fill="url(#dots)" opacity="0.48"/>
     <path d="M0 1H1200" stroke="#FF9408" stroke-opacity="0.45" stroke-width="1"/>
   </g>
+    </g>
 </svg>
