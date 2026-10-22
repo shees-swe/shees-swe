@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="header.svg" width="100%"/>
+   <img src="https://raw.githubusercontent.com/shees-swe/shees-swe/main/header.svg?v=9098ea7" width="100%"/>
 </div>
 
 <!-- HERO SECTION -->
