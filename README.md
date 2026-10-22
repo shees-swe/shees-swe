@@ -182,7 +182,6 @@
 - 🌌 My portfolio has a **real-time 3D universe** as its background
 - 💛 I brand everything in **yellow, black & white**
 - 🌙 Most productive coding hours: **after midnight**
-- 🎮 Built an **NFT marketplace** from scratch with MERN
 - 💬 Ask me about **React, Node.js, MongoDB, Three.js**
 
 </td>
