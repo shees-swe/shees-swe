@@ -6,7 +6,7 @@
 <div align="center">
 
   <a href="https://github.com/shees-swe">
-    <img src="typing.svg" alt="Typing SVG" />
+    <img src="https://raw.githubusercontent.com/shees-swe/shees-swe/main/typing.svg?v=20261022b" alt="Typing SVG" />
   </a>
 
   <h3><strong>Full-Stack Developer</strong></h3>
