@@ -199,6 +199,7 @@
 *Open for freelance projects, collaborations, and interesting conversations about web development.*
 
 <a href="mailto:shees.swe@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-shees.swe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
+<a href="https://www.linkedin.com/in/muhammad-shees-dev"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Shees on LinkedIn" /></a>
 <a href="https://shees-swe.github.io/"><img src="https://img.shields.io/badge/See_My_Work-Portfolio-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
 
 </div>
