@@ -97,6 +97,25 @@
 
 ---
 
+<!-- AI WORKFLOW -->
+<h2>🤖 How I Build — AI-Augmented Workflow</h2>
+
+I build with AI agents as part of my engineering workflow — I direct them, review everything, and merge only what passes my checks.
+
+* 🧠 **Agents:** Claude Code & Antigravity (agy) for audits, fixes, and refactors
+* 🔌 **MCP servers:** Playwright, Context7, shadcn & 21st.dev connected into the workflow
+* 📐 **Spec-driven development:** GitHub Spec Kit (constitution → spec → plan → tasks) before code
+* ✅ **Review-first delivery:** structured security audits, one fix per branch, verified before merge
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spec_Kit-24292F?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+---
+
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
 
@@ -171,6 +190,7 @@
 
 ### 🎯 Currently
 - 🔭 Building **full-stack web applications** end to end
+- 🤖 Building with **AI agents** (Claude Code, Antigravity) — spec-first, reviewed, merged by me
 - 🌱 Learning **advanced Three.js** & **system design**
 - 🎨 Obsessed with **smooth scroll physics** and cinematic UI motion
 - 📚 Studying **BS Software Engineering** at Virtual University
