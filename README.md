@@ -143,6 +143,7 @@ I build with AI agents as part of my engineering workflow — I direct them, rev
   <tr>
     <td width="100%" valign="top">
       <h3>🎓 <a href="https://github.com/shees-swe/edupredict">EduPredict — Student Dropout Risk & Academic Analytics Platform</a></h3>
+      <p><img src="edupredict-landing.svg" alt="EduPredict landing page" width="520" /></p>
       <p>A role-based academic analytics platform that predicts student dropout risk, recommends academic pathways, and visualizes cohort data — with separate dashboards for admins, teachers, analysts and students.</p>
       <p>
         <code>React</code> <code>Flask</code> <code>MongoDB</code> <code>Python</code> <code>Machine Learning</code>
