@@ -122,7 +122,7 @@ I build with AI agents as part of my engineering workflow — I direct them, rev
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=shees-swe&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" width="98%"/>
+      <img src="profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" width="98%"/>
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://streak-stats.demolab.com/?user=shees-swe&theme=dracula&hide_border=true" alt="GitHub Streak" width="98%"/>
@@ -131,7 +131,7 @@ I build with AI agents as part of my engineering workflow — I direct them, rev
 </table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shees-swe&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Top Languages" />
 </p>
 
 ---
