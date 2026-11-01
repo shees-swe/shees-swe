@@ -154,6 +154,21 @@ I build with AI agents as part of my engineering workflow — I direct them, rev
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🏢 <a href="https://eventsphere-frontend-eight.vercel.app">EventSphere — Expo &amp; Trade Show Management Platform</a></h3>
+      <p><img src="eventsphere-landing.svg" alt="EventSphere landing page" width="520" /></p>
+      <p>A complete platform for running industrial expos and trade shows: organizers publish expos and interactive floor plans, exhibitors claim booths atomically through an approval queue, and attendees discover events, sessions and exhibitors. Three role portals, one system, seeded with 10 real Pakistani expos and 500 booths.</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
+      </p>
+      <ul>
+        <li>✔ Atomic booth claiming — first claim wins, no double-booking, with an organizer approval queue</li>
+        <li>✔ Hardened through a 44-point security and correctness audit, with 39 automated test suites passing</li>
+        <li>✔ 🔗 <a href="https://eventsphere-frontend-eight.vercel.app">Live demo</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
