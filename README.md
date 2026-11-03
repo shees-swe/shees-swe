@@ -1,253 +1,29 @@
-<div align="center">
-   <img src="https://raw.githubusercontent.com/shees-swe/shees-swe/main/header.svg?v=20261022b" width="100%"/>
-</div>
-
-<!-- HERO SECTION -->
-<div align="center">
-
-  <a href="https://github.com/shees-swe">
-    <img src="https://raw.githubusercontent.com/shees-swe/shees-swe/main/typing.svg?v=20261022b" alt="Typing SVG" />
-  </a>
-
-  <h3><strong>Full-Stack Developer</strong></h3>
-  <p><i>Building scalable web applications, interactive 3D experiences, and modern full-stack solutions.</i></p>
-
-  <p>
-    <a href="mailto:shees.swe@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://shees-swe.github.io/"><img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
-    <a href="https://github.com/shees-swe"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://instagram.com/shees.swe"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://www.facebook.com/shees.swe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  </p>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shees-swe.shees-swe" alt="Visitor Counter" />
-</div>
-
-<br/>
-
-<!-- ABOUT ME -->
-<h2 align="center">🚀 About Me</h2>
-
-<table width="100%" border="0">
-<tr>
-<td width="55%" valign="top" style="border: none; background: none;">
-
-### 👨‍💻 Who am I?
-
-* 🎓 **BS Software Engineering** (in progress) • Virtual University of Pakistan
-* 💻 **Full-Stack Developer** passionate about building modern web applications and interactive experiences.
-* 🚀 Currently building production-ready applications with React, Node.js, and MongoDB.
-* 🌱 Currently learning **advanced Three.js, system design, and cloud deployment.**
-* 🎨 I craft portfolios with real-time 3D, smooth scroll physics, and cinematic motion.
-
-<blockquote>
-  <p align="left">
-    <i>"I don't just write code. I build experiences people remember."</i>
-  </p>
-</blockquote>
-
-</td>
-
-<td width="45%" align="center" valign="middle" style="border: none; background: none;">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Animation"/>
-
-</td>
-</tr>
-</table>
-
-<hr/>
-
-<!-- TECH STACK -->
-<h2>⚡ Tech Stack</h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,cs,py,php,dart" />
-      <br/><br/>
-      <h3>🎨 Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,vite,tailwind,threejs,bootstrap,mui,flutter" />
-      <br/><br/>
-      <h3>⚙️ Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,dotnet" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>🗄️ Databases</h3>
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-      <br/><br/>
-      <h3>🛠️ Tools & DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,azure" />
-      <br/><br/>
-      <h3>🎓 ADSE & More</h3>
-      <p>
-        <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-        <img src="https://img.shields.io/badge/SEO-00FFCC?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
-        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square" />
-      </p>
-      <h3>🎯 Currently Exploring</h3>
-      <p>System Design • Docker • AWS</p>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- AI WORKFLOW -->
-<h2>🤖 How I Build — AI-Augmented Workflow</h2>
-
-I build with AI agents as part of my engineering workflow — I direct them, review everything, and merge only what passes my checks.
-
-* 🧠 **Agents:** Claude Code & Antigravity (agy) for audits, fixes, and refactors
-* 🔌 **MCP servers:** Playwright, Context7, shadcn & 21st.dev connected into the workflow
-* 📐 **Spec-driven development:** GitHub Spec Kit (constitution → spec → plan → tasks) before code
-* ✅ **Review-first delivery:** structured security audits, one fix per branch, verified before merge
-
-<p>
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spec_Kit-24292F?style=flat-square&logo=github&logoColor=white" />
+<!-- Muhammad Shees — GitHub profile. Design: five animated SVG panels in assets/. -->
+<p align="center">
+  <img src="./assets/hero.svg?v=1" width="100%" alt="Hi, I'm Muhammad Shees — Full-Stack Developer from Karachi, building web applications end to end." />
 </p>
 
----
+<img src="./assets/about-life.svg?v=1" width="100%" alt="End-to-end development, security in the build, and an AI-augmented workflow. Beyond work: PC gaming, testing AI tooling, and a software engineering degree in progress." />
 
-<!-- GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<img src="./assets/stack.svg?v=1" width="100%" alt="My stack: JavaScript, TypeScript, Python, React, Node.js, Flutter, Express, MongoDB and MySQL." />
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="profile-summary-card-output/dracula/3-stats.svg" alt="GitHub Stats" width="98%"/>
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://streak-stats.demolab.com/?user=shees-swe&theme=dracula&hide_border=true" alt="GitHub Streak" width="98%"/>
-    </td>
-  </tr>
-</table>
+### Things I've built
+
+| Project | What it does | Focus |
+| :--- | :--- | :--- |
+| [**EduPredict**](https://github.com/shees-swe/edupredict) | Student dropout-risk & academic analytics platform, live with a 5,000-student cohort | ML + Full-Stack |
+| [**EventSphere**](https://github.com/shees-swe/eventsphere) | Expo & trade-show management: atomic booth claiming, floor plans, ticketing, sessions | Full-Stack Systems |
+| [**Portfolio**](https://github.com/shees-swe/shees-swe.github.io) | Single-file cinematic portfolio with a liquid-distortion hero | Creative Frontend |
+
+<img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Muhammad's builder ID and public dashboard. 4 public repositories, 16 received repo stars, 2 apps in production. Snapshot: November 3, 2026." />
+
+<img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on LinkedIn, see the code on GitHub, follow @shees.swe on Instagram, or email shees.swe@gmail.com." />
 
 <p align="center">
-  <img src="profile-summary-card-output/dracula/1-repos-per-language.svg" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/muhammad-shees-dev">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/shees-swe">GitHub</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/shees.swe">Instagram — @shees.swe</a> &nbsp;·&nbsp;
+  <a href="mailto:shees.swe@gmail.com">Email</a>
 </p>
 
----
-
-<!-- PROJECTS -->
-<h2>💼 Featured Projects</h2>
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🎓 <a href="https://github.com/shees-swe/edupredict">EduPredict — Student Dropout Risk & Academic Analytics Platform</a></h3>
-      <p><img src="edupredict-landing.svg" alt="EduPredict landing page" width="520" /></p>
-      <p>A role-based academic analytics platform that predicts student dropout risk, recommends academic pathways, and visualizes cohort data — with separate dashboards for admins, teachers, analysts and students.</p>
-      <p>
-        <code>React</code> <code>Flask</code> <code>MongoDB</code> <code>Python</code> <code>Machine Learning</code>
-      </p>
-      <ul>
-        <li>✔ ML dropout-risk predictions with real-time alerts — running live on a 5,000-student cohort</li>
-        <li>✔ Batch CSV ingest, in-app record management, staff access scoping & TOTP 2FA</li>
-        <li>✔ 🔗 <a href="https://edupredict-blue.vercel.app">Live demo</a></li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🏢 <a href="https://eventsphere-frontend-eight.vercel.app">EventSphere — Expo &amp; Trade Show Management Platform</a></h3>
-      <p><img src="eventsphere-landing.svg" alt="EventSphere landing page" width="520" /></p>
-      <p>A complete platform for running industrial expos and trade shows: organizers publish expos and interactive floor plans, exhibitors claim booths atomically through an approval queue, and attendees discover events, sessions and exhibitors. Three role portals, one system, seeded with 10 real Pakistani expos and 500 booths.</p>
-      <p>
-        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>JWT</code>
-      </p>
-      <ul>
-        <li>✔ Atomic booth claiming — first claim wins, no double-booking, with an organizer approval queue</li>
-        <li>✔ Hardened through a 44-point security and correctness audit, with 39 automated test suites passing</li>
-        <li>✔ 🔗 <a href="https://eventsphere-frontend-eight.vercel.app">Live demo</a></li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-<!-- EDUCATION -->
-<h2>🎓 Education</h2>
-
-* 🎓 **BS Software Engineering** — Virtual University of Pakistan *(in progress)*
-* 💻 **ADSE (Advanced Diploma in Software Engineering)** — Aptech North Karachi Center ✅
-* 📜 **Intermediate** — Government Degree Boys College 5-L, New Karachi
-* 📚 **Matriculation** — SHS Schooling System
-
----
-
-<!-- CONTRIBUTION SNAKE -->
-<h2 align="center">🐍 Watch My Contributions Get Eaten</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shees-swe/shees-swe/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shees-swe/shees-swe/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shees-swe/shees-swe/output/github-snake.svg">
-  </picture>
-</p>
-
----
-
-<!-- FUN FACTS & CURRENTLY -->
-<h2>⚡ Fun Facts & Currently</h2>
-
-<table width="100%" border="0">
-<tr>
-<td width="50%" valign="top" style="border: none; background: none;">
-
-### 🎯 Currently
-- 🔭 Building **full-stack web applications** end to end
-- 🤖 Building with **AI agents** (Claude Code, Antigravity) — spec-first, reviewed, merged by me
-- 🌱 Learning **advanced Three.js** & **system design**
-- 🎨 Obsessed with **smooth scroll physics** and cinematic UI motion
-- 📚 Studying **BS Software Engineering** at Virtual University
-
-</td>
-<td width="50%" valign="top" style="border: none; background: none;">
-
-### ✨ Fun Facts
-- 🌌 My portfolio has a **real-time 3D universe** as its background
-- 💛 I brand everything in **yellow, black & white**
-- 🌙 Most productive coding hours: **after midnight**
-- 💬 Ask me about **React, Node.js, MongoDB, Three.js**
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- LET'S CONNECT -->
-<div align="center">
-
-### 🤝 Let's Build Something Great Together
-
-*Open for freelance projects, collaborations, and interesting conversations about web development.*
-
-<a href="mailto:shees.swe@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-shees.swe@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" /></a>
-<a href="https://www.linkedin.com/in/muhammad-shees-dev"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Muhammad Shees on LinkedIn" /></a>
-<a href="https://shees-swe.github.io/"><img src="https://img.shields.io/badge/See_My_Work-Portfolio-00FFCC?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" /></a>
-
-</div>
-
----
-
-<!-- QUOTE -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="footer.svg" width="100%"/>
-</div>
+<p align="center"><sub>Built end to end. Owned end to end.</sub></p>
