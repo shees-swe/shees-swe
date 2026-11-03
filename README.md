@@ -17,7 +17,7 @@
 
 <img src="./assets/id-dashboard.svg?v=1" width="100%" alt="Muhammad's builder ID and public dashboard. 4 public repositories, 16 received repo stars, 2 apps in production. Snapshot: November 3, 2026." />
 
-<img src="./assets/connect.svg?v=1" width="100%" alt="Let's build what's next. Connect on LinkedIn, see the code on GitHub, follow @shees.swe on Instagram, or email shees.swe@gmail.com." />
+<img src="./assets/connect.svg?v=2" width="100%" alt="Let's build what's next. Connect on LinkedIn, see the code on GitHub, follow @shees.swe on Instagram, or email shees.swe@gmail.com." />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-shees-dev">LinkedIn</a> &nbsp;·&nbsp;
